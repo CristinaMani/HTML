@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Image practice</title>
+  </head>
+  <body>
+    <h1>Hello!</h1>
+    <p>
+    <img src="http://udacity.github.io/fend/images/udacity.png" alt="Udacity logo"> 
+	  </p>
+	  <p>
+    <img src="http://s3.amazonaws.com/codecademy-blog/assets/puppy-main_zps26d178c5.jpg" alt="angry puppy"> 
+	  </p>
+  </body>
+</html>
